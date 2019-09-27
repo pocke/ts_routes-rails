@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "prettier": "^1.12.1",
-    "tslint": "^5.9.1"
+    "tslint": "^5.20.0"
   },
   "scripts": {
     "format": "prettier --write 'lib/**/*.ts' 'test/**/*.ts'",
